@@ -1,7 +1,7 @@
 from pathlib import Path
 
-folder = Path("syamashita-tu/chapter10")
-n_list = list(range(1, 7))  # 任意の数を指定
+folder = Path("syamashita-tu/chapter12")
+n_list = list(range(1, 12))  # 任意の数を指定
 
 folder.mkdir(parents=True, exist_ok=True)
 
